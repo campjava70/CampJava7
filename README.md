@@ -7,6 +7,6 @@ pkg install git
 
 # Cara Pakai
 
-cd ToolsCampJava7
+cd CampJava7
 
 python CampJava.py
