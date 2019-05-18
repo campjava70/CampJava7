@@ -1,7 +1,7 @@
 # ToolsCampJava7
 Login With Me 
 
-# Need Pakai
+# Need Install
 pkg install python
 pkg install git
 
